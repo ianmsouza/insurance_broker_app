@@ -6,3 +6,4 @@ streamlit-folium < 0.19.99
 jupyter
 jupyterlab
 pandas
+streamlit-lottie
