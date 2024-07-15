@@ -1,5 +1,4 @@
-# Insurance Broker App 
-# Corretor Virtual de Seguros de Vida
+# Insurance Broker App (Corretor Virtual de Seguros de Vida)
 
 ## Índice
 - [Sobre](#sobre)
