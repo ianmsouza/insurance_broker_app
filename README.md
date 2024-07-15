@@ -23,7 +23,7 @@ Lista de pré-requisitos necessários para rodar o projeto:
 Passos para instalar e configurar o ambiente de desenvolvimento local:
 1- git clone https://github.com/ianmsouza/insurance_broker_app.git
 2- streamlit run src/insurance_broker_app/app.py
-3- [Acesse](http://localhost:8501/) - http://localhost:8501/
+3- [Acesse localhost, porta 8501](http://localhost:8501/)
 
 ## Uso
 
