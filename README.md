@@ -24,11 +24,16 @@ Passos para instalar e configurar o ambiente de desenvolvimento local:
    ```bash
    git clone https://github.com/ianmsouza/insurance_broker_app.git
    ```
-2. Execute o app:
+2. Informar o Key da API OpenAI: `src/insurance_broker_app/app.py`
+   ```bash
+   # Key OpenAI
+   agent = Agent("sk-proj-xxxxxxxxxxxxxxxxxxxxx") 
+   ```
+4. Execute o app:
    ```bash
    streamlit run src/insurance_broker_app/app.py
    ```
-4. Acesse localhost:8501
+5. Acesse localhost:8501
    ```bash
    http://localhost:8501/
    ```
